@@ -1,1 +1,1 @@
-
+document.getElementById('toggle-lang').addEventListener('click', () => alert('Language toggle placeholder'));
